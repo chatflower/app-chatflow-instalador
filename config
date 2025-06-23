@@ -1,0 +1,11 @@
+deploy_password=AKwWM4Qu2GRppJ7
+pg_pass=AKwWM4Qu2GRppJ7
+redis_pass=AKwWM4Qu2GRppJ7
+deploy_email=basorastudio@gmail.com
+repositorio=https://github.com/basorastudio/flowdeskpro.git
+nome_instancia=flowdeskpro
+porta_postgre_intancia=5432
+frontend_url=app.ltd.do
+frontend_porta=4000
+backend_url=api.ltd.do
+backend_porta=3000
